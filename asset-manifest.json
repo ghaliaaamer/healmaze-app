@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/healmaze-app/static/css/main.0fe1bbbd.css",
-    "main.js": "/healmaze-app/static/js/main.76c895a6.js",
+    "main.js": "/healmaze-app/static/js/main.d04379a2.js",
     "static/js/453.c02b992e.chunk.js": "/healmaze-app/static/js/453.c02b992e.chunk.js",
     "index.html": "/healmaze-app/index.html",
     "main.0fe1bbbd.css.map": "/healmaze-app/static/css/main.0fe1bbbd.css.map",
-    "main.76c895a6.js.map": "/healmaze-app/static/js/main.76c895a6.js.map",
+    "main.d04379a2.js.map": "/healmaze-app/static/js/main.d04379a2.js.map",
     "453.c02b992e.chunk.js.map": "/healmaze-app/static/js/453.c02b992e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fe1bbbd.css",
-    "static/js/main.76c895a6.js"
+    "static/js/main.d04379a2.js"
   ]
 }
